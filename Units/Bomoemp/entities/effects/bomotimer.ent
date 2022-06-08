@@ -1,0 +1,9 @@
+EntityBlueprint
+{
+	name  "effects/bomotimer"
+
+    LuaDesc
+	{
+		script "lua/units/ground/bomotimer.lua"
+	}
+}
