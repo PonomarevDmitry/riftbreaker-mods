@@ -1,0 +1,25 @@
+Mod idea list
+- Dummy mine (Spawn Riggs mesh with 250/500/1000HP and force attraction by enemies)
+- Flora grenade (Explodes and spawns smaller flora like grass)
+- VegetationComponent to towers so they regrow once "destroyed"
+- Add killcounter on screen, giving buffs to Riggs after kiling %num% of enemies
+- Mortar tower
+- Bombardment tower
+- Paintball gun
+- Create small resource spots wherever Riggs walks
+- AoE mod effect tower
+- Necro tower (Revive dead enemies, change team to player)
+- Make flora explode on contact (Just Riggs triggering & getting damaged)
+- Make the miner tower somewhow more useful
+- Create smarter AI (Groups? Spawn enemies depending on player defense?)
+- Create random enemy outposts on world generation (Riggs buildings, changed team, black recolored)
+- Make Bomogans throw enemies in close range to the player
+- Bio magnet tower (pulling/pushing enemies)
+- Last hope suicide skill (Riggs cant move, some charge effect in the mech body, explodes as double nuke, all weapons lost)
+- Create bigger boss mobs which attack in waves
+- Game event where kermons spawn around Riggs like ninjas
+- Biofuel Riggs (Cant move anymore when plant biomass = 0 )
+- 2nd life (Spreader appears whenever an enemy >= 500HP gets killed)
+- Mini Riggs AI buddy ?
+- Add teleporter spawn skill to some enemy (Spawns Riggs teleporter symbol and %num% mobs spawn from them until it vanishes again)
+- Play hard rock song whenever riggs gets killed
