@@ -23,3 +23,4 @@ Mod idea list
 - Mini Riggs AI buddy ?
 - Add teleporter spawn skill to some enemy (Spawns Riggs teleporter symbol and %num% mobs spawn from them until it vanishes again)
 - Play hard rock song whenever riggs gets killed
+- Luikasz: Bomogan throwing acid creeper -> acid creeper on branch destructions spawns undeground mushrooms which on trigger explode in rain of octabits!
