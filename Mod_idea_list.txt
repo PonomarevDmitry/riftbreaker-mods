@@ -32,6 +32,6 @@
 - HQ without physics box, following Riggs wherever he goes like a dog
 - Neutral flying enemies randomly dropping grandes
 - On Riggs death, spawn sentry gun consumable
-- Show a deathcounter on screen
+- Show a deathcounter on screen ✅
 - Add a laugh track whenever player loses survival match
 - Wira: Healing grenade
