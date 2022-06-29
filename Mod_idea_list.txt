@@ -27,3 +27,8 @@ Mod idea list
 - Each destroyed tree = One additional enemy each wave
 - Directional light tower ✅
 - Wira: Decoration lamps that spin the spotlights like IRL siren spotlights
+- Laser towers healing Riggs in range (shoot at him, laser = green bioscanner laser)
+- Dying gnerot spawns random small ore vein below corpse (his dead body = rocks so it fits kinda)
+- Voiceover mod chaning serious sounds to self spoken funny ones (woosh, pew pew, ...)
+- HQ without physics box, following Riggs wherever he goes like a dog
+- Neutral flying enemies randomly dropping grandes
