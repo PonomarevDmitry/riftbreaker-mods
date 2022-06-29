@@ -34,3 +34,4 @@
 - On Riggs death, spawn sentry gun consumable
 - Show a deathcounter on screen
 - Add a laugh track whenever player loses survival match
+- Wira: Healing grenade
