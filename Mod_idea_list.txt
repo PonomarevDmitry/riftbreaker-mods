@@ -1,4 +1,3 @@
-Mod idea list
 - Dummy mine (Spawn Riggs mesh with 250/500/1000HP and force attraction by enemies)
 - Flora grenade (Explodes and spawns smaller flora like grass)
 - VegetationComponent to towers so they regrow once "destroyed"
@@ -25,4 +24,14 @@ Mod idea list
 - Play hard rock song whenever riggs gets killed
 - Lukasz: Bomogan throwing acid creeper -> acid creeper on branch destructions spawns undeground mushrooms which on trigger explode in rain of octabits!
 - Each destroyed tree = One additional enemy each wave
-- Directional light tower
+- Harkonnen: Directional light tower ✅
+- Wira: Decoration lamps that spin the spotlights like IRL siren spotlights
+- Laser towers healing Riggs in range (shoot at him, laser = green bioscanner laser)
+- Dying gnerot spawns random small ore vein below corpse (his dead body = rocks so it fits kinda)
+- Voiceover mod chaning serious sounds to self spoken funny ones (woosh, pew pew, ...)
+- HQ without physics box, following Riggs wherever he goes like a dog
+- Neutral flying enemies randomly dropping grandes
+- On Riggs death, spawn sentry gun consumable
+- Show a deathcounter on screen ✅
+- Add a laugh track whenever player loses survival match
+- Wira: Healing grenade
