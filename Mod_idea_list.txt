@@ -31,3 +31,6 @@
 - Voiceover mod chaning serious sounds to self spoken funny ones (woosh, pew pew, ...)
 - HQ without physics box, following Riggs wherever he goes like a dog
 - Neutral flying enemies randomly dropping grandes
+- On Riggs death, spawn sentry gun consumable
+- Show a deathcounter on screen
+- Add a laugh track whenever player loses survival match
