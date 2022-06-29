@@ -25,3 +25,4 @@ Mod idea list
 - Play hard rock song whenever riggs gets killed
 - Lukasz: Bomogan throwing acid creeper -> acid creeper on branch destructions spawns undeground mushrooms which on trigger explode in rain of octabits!
 - Each destroyed tree = One additional enemy each wave
+- Directional light tower
