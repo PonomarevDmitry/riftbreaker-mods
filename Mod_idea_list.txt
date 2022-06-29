@@ -24,7 +24,7 @@
 - Play hard rock song whenever riggs gets killed
 - Lukasz: Bomogan throwing acid creeper -> acid creeper on branch destructions spawns undeground mushrooms which on trigger explode in rain of octabits!
 - Each destroyed tree = One additional enemy each wave
-- Directional light tower ✅
+- Harkonnen: Directional light tower ✅
 - Wira: Decoration lamps that spin the spotlights like IRL siren spotlights
 - Laser towers healing Riggs in range (shoot at him, laser = green bioscanner laser)
 - Dying gnerot spawns random small ore vein below corpse (his dead body = rocks so it fits kinda)
