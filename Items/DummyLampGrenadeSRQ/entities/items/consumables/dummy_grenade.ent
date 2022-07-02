@@ -1,0 +1,135 @@
+EntityBlueprint
+{
+	name  "items/consumables/dummy_grenade"
+
+	MeshDesc
+	{
+		mesh 						"meshes/projectiles/hand_grenade.mesh"
+		material 					"items/consumables/hand_grenade"
+	}
+
+	PhysicsDesc
+	{
+		objects
+		{
+			PhysicsObjectDesc
+			{
+				type 				"dynamic"
+				group_id 			"grenade"
+				physics_material 	"grenade_light"
+				Shapes
+				{
+					PhysicsMeshShape
+					{
+						mesh "meshes/items/weapons/grenade_10_c1.nxs"
+					}
+				}
+			}
+		}
+	}
+
+	GrenadeAmmoComponent
+	{
+		on_enemy_hit_effect 		"effects/SRQ/dummy_spawner"
+		on_world_hit_effect 		"effects/SRQ/dummy_spawner"
+		on_resisted_hit_effect 		"effects/SRQ/dummy_spawner"
+
+		on_world_explosion_delay	"1"
+		on_enemy_explosion_delay	"0"
+
+		explosion_delay_effect 		"effects/weapons_explosive/weapon_grenade_armed"
+
+		collision_3d 				"ground_unit|world|world_blocker|hitbox|building|destructible"
+
+		diameter					"0.25"
+
+		artillery_min_angle 		"25"
+		artillery_max_angle 		"45"
+
+	}
+
+	EffectDesc
+	{
+		EffectGroup
+		{
+			Effects
+			{
+				Effect
+				{
+					blueprint "effects/weapons_explosive/grenade_projectile"
+				}
+				Effect
+				{
+					blueprint "effects/weapons_explosive/grenade_throw"
+				}
+			}			
+		}
+	}
+	
+	children
+	{
+		EntityBlueprint
+		{
+			RibbonComponent
+			{		
+				material 			ribbon/grenade_trail_yellow
+				update_bounds 		1
+				fade_out_time		0.45
+				uv_scroll			"0 -1.5"
+				tiling_distance     "3"
+				tesselation_step 	"0.25"
+				keep_local			"0"
+
+				Ribbons
+				{
+					Ribbon
+					{
+						offset "0 0 0.5"
+					}
+
+					Ribbon
+					{
+						offset "0 0 -0.5"
+					}
+				}
+			}
+		}
+	}	
+}
+
+
+EntityBlueprint
+{
+	name  "items/consumables/dummy_grenade_standard_item"
+
+	InventoryItemDesc
+	{
+		type 						"consumable"
+		name 						"Dummy grenade"
+		use_count					"1"
+		cooldown					"1"
+		cooldown_category			"grenade"
+		icon						"gui/hud/items_icons/consumables/grenade"
+		bigger_icon 				"gui/menu/items_icons/consumables/grenade"
+		storage_limit 				"10"
+		description 				"Spawns a dummy lamp, attracting enemies nearby"		
+		rarity						"STANDARD"
+		replace_lower_quality		"1"		
+	}
+
+	LuaDesc
+	{
+		script "lua/items/consumables/dummy_grenade.lua"
+
+		database
+		{
+			bp						string:"items/consumables/dummy_grenade"
+			att						string:"att_grenade"
+            timeout     			float:"20"				
+		}
+	}
+
+	CostDesc
+}
+
+

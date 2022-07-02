@@ -1,0 +1,53 @@
+EntityBlueprint
+{
+	name "effects/SRQ/dummy_spawner"
+
+	base_blueprints 
+	{
+		effects/no_lifetime
+	}
+
+	LuaDesc
+	{
+		script "lua/items/consumables/dummy_spawner.lua"
+	}
+
+}
+
+EntityBlueprint "effects/no_lifetime"
+{
+	name "effects/SRQ/marker"
+
+	MinimapItemDesc
+	{
+		type			"image"
+		icon_material 	"gui/hud/minimap_icons/minimap_objective_blue"
+		clamp_mode		"1"
+		visibility		"always"	
+		additional_z_order	"15"	
+	}
+
+	ParticleDesc
+	{
+		name    "rift/objective_marker_armory_blue"
+	}
+
+	GuiDesc
+	{
+		type 			"image"
+		material		"gui/hud/objective_blue"
+		mode			"clamp"
+		clamp_in_frustum "0"
+		order 			"1"
+		//scale
+		//{
+		//	x  "1.35"
+		//	y  "1.35"		
+		//}
+	}
+	
+	LifeTimeDesc
+	{
+		time 		2.0
+	}
+}
