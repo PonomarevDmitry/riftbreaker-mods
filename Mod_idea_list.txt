@@ -1,4 +1,4 @@
-- Dummy mine (Spawn Riggs mesh with 250/500/1000HP and force attraction by enemies)
+- Dummy mine (Spawn Riggs mesh with 250/500/1000HP and force attraction by enemies)✅ (Dummy Grenade -> Lamp)
 - Flora grenade (Explodes and spawns smaller flora like grass)
 - VegetationComponent to towers so they regrow once "destroyed"
 - Add killcounter on screen, giving buffs to Riggs after kiling %num% of enemies
@@ -38,3 +38,4 @@
 - Enemies grow on hit, until they explode
 - Make some new weapon
 - Chainsaw tower
+- Quicksave slots for weapon gear
