@@ -35,3 +35,6 @@
 - Show a deathcounter on screen ✅
 - Add a laugh track whenever player loses survival match
 - Wira: Healing grenade
+- Enemies grow on hit, until they explode
+- Make some new weapon
+- Chainsaw tower
