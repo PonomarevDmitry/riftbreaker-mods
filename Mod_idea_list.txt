@@ -39,3 +39,5 @@
 - Make some new weapon
 - Chainsaw tower
 - Quicksave slots for weapon gear
+- Lukasz: One tower foundation where you could equip weapons crafted by player (Use mod menu, spawn weapon at _att above tower, use WeaponService:RotateWeaponMuzzleToTarget)
+- Create mods for buildings (F.e: Lamp: Brighter light, further reach etc)
