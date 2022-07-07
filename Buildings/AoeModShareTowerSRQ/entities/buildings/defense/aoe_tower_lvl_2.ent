@@ -1,0 +1,43 @@
+EntityBlueprint
+{
+	name  "buildings/defense/aoe_tower_lvl_2"
+
+	base_blueprint 			buildings/defense/aoe_tower
+
+	BuildingDesc
+	{
+		buildable			"0"
+		name 				"aoe_tower_lvl_2"
+		bp   				"buildings/defense/aoe_tower_lvl_2"
+		category 			"defense"
+		type				"tower"
+		localization_id		"Mod: AoE Tower"
+		description			"Shares equipped mods with nearby towers"
+		menu_icon			"gui/hud/building_icons/research_station"
+		require 			"headquarters"
+		//limit			    "1"
+		upgrade				"buildings/defense/aoe_tower_lvl_3"
+		order				"6"
+		exclude_terrain_types "magma_hot_ground,magma_very_hot_ground"
+		radius_name			"aoe_tower"
+		min_radius			"30"
+
+		costs
+		{
+			BuildingCostInfo
+			{
+				name "default"
+				building_time 30
+				building_cost
+				{
+					carbonium 	"100"
+					steel 		"150"
+				}
+			}		
+		}
+	}
+	
+	WeaponItemDesc
+	{
+	}
+}
