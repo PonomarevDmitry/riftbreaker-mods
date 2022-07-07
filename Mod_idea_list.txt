@@ -1,4 +1,3 @@
-- Dummy mine (Spawn Riggs mesh with 250/500/1000HP and force attraction by enemies)✅ (Dummy Grenade -> Lamp)
 - Flora grenade (Explodes and spawns smaller flora like grass)
 - VegetationComponent to towers so they regrow once "destroyed"
 - Add killcounter on screen, giving buffs to Riggs after kiling %num% of enemies
@@ -6,7 +5,6 @@
 - Bombardment tower
 - Paintball gun
 - Create small resource spots wherever Riggs walks
-- AoE mod effect tower
 - Necro tower (Revive dead enemies, change team to player)
 - Make flora explode on contact (Just Riggs triggering & getting damaged)
 - Make the miner tower somewhow more useful
@@ -24,7 +22,6 @@
 - Play hard rock song whenever riggs gets killed
 - Lukasz: Bomogan throwing acid creeper -> acid creeper on branch destructions spawns undeground mushrooms which on trigger explode in rain of octabits!
 - Each destroyed tree = One additional enemy each wave
-- Harkonnen: Directional light tower ✅
 - Wira: Decoration lamps that spin the spotlights like IRL siren spotlights
 - Laser towers healing Riggs in range (shoot at him, laser = green bioscanner laser)
 - Dying gnerot spawns random small ore vein below corpse (his dead body = rocks so it fits kinda)
@@ -32,12 +29,19 @@
 - HQ without physics box, following Riggs wherever he goes like a dog
 - Neutral flying enemies randomly dropping grandes
 - On Riggs death, spawn sentry gun consumable
-- Show a deathcounter on screen ✅
 - Add a laugh track whenever player loses survival match
 - Wira: Healing grenade
 - Enemies grow on hit, until they explode
 - Make some new weapon
 - Chainsaw tower
-- Quicksave slots for weapon gear
+- Quicksave slots for weapon gear 
 - Lukasz: One tower foundation where you could equip weapons crafted by player (Use mod menu, spawn weapon at _att above tower, use WeaponService:RotateWeaponMuzzleToTarget)
 - Create mods for buildings (F.e: Lamp: Brighter light, further reach etc)
+- Futurelord: Prefab copy
+- AoE mod effect tower ⏸
+- Harkonnen: Directional light tower ✅
+- Show a deathcounter on screen ✅
+- Intelstation (Reveal part of map every %num% of seconds)✅
+- Dummy mine (Spawn Riggs mesh with 250/500/1000HP and force attraction by enemies)✅ (Dummy Grenade -> Lamp)
+- Show a speedcounter on screen ✅
+- Kepytop: Remove the flashbang effect from the thunderstorm ✅
