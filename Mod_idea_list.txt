@@ -31,7 +31,7 @@
 - On Riggs death, spawn sentry gun consumable
 - Add a laugh track whenever player loses survival match
 - Wira: Healing grenade
-- Enemies grow on hit, until they explode
+- Enemies grow on hit ✅
 - Make some new weapon
 - Chainsaw tower
 - Quicksave slots for weapon gear 
