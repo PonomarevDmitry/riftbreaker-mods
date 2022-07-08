@@ -31,6 +31,7 @@
 - On Riggs death, spawn sentry gun consumable
 - Add a laugh track whenever player loses survival match
 - Wira: Healing grenade
+- Void: Enemies shrink on hit + can be run over like Quelvers ✅
 - Enemies grow on hit ✅
 - Make some new weapon
 - Chainsaw tower
