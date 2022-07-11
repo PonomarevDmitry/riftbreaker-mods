@@ -46,3 +46,5 @@
 - Dummy mine (Spawn Riggs mesh with 250/500/1000HP and force attraction by enemies)✅ (Dummy Grenade -> Lamp)
 - Show a speedcounter on screen ✅
 - Kepytop: Remove the flashbang effect from the thunderstorm ✅
+- Voidlord: Atmospheric Condenser (Air -> Water) ✅
+- Divide Tower (Towers spawn random other lvl 1 tower once destroyed)✅
