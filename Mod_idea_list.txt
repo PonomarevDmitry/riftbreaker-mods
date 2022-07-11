@@ -47,3 +47,5 @@
 - Show a speedcounter on screen ✅
 - Kepytop: Remove the flashbang effect from the thunderstorm ✅
 - SolarRiggs, Riggs can only walk at daytime ✅
+- Voidlord: Atmospheric Condenser (Air -> Water) ✅
+- Divide Tower (Towers spawn random other lvl 1 tower once destroyed)✅
