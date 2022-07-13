@@ -51,3 +51,4 @@
 - Divide Tower (Towers spawn random other lvl 1 tower once destroyed)✅
 - Floating hunt mines ✅
 - Lukasz: Weapon randomizer mod (Research? OnEquip?) ✅ (Dropping the weapon crashes game)
+- Riggs tower (Place a smaller Riggs version as a tower, no movement, upper body turn, use equipped player weapon?)
