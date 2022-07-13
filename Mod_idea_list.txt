@@ -49,3 +49,5 @@
 - SolarRiggs, Riggs can only walk at daytime ✅
 - Voidlord: Atmospheric Condenser (Air -> Water) ✅
 - Divide Tower (Towers spawn random other lvl 1 tower once destroyed)✅
+- Floating hunt mines ✅
+- Lukasz: Weapon randomizer mod (Research? OnEquip?)
