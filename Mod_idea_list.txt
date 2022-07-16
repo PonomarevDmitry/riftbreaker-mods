@@ -25,10 +25,11 @@
 - Wira: Decoration lamps that spin the spotlights like IRL siren spotlights
 - Laser towers healing Riggs in range (shoot at him, laser = green bioscanner laser)
 - Dying gnerot spawns random small ore vein below corpse (his dead body = rocks so it fits kinda)
-- Voiceover mod chaning serious sounds to self spoken funny ones (woosh, pew pew, ...)
+- Voiceover mod changing serious sounds to self spoken funny ones (woosh, pew pew, ...)
 - HQ without physics box, following Riggs wherever he goes like a dog
 - Neutral flying enemies randomly dropping grandes
 - On Riggs death, spawn sentry gun consumable
+- On Riggs death, spawn enemy creeper ✅
 - Add a laugh track whenever player loses survival match
 - Wira: Healing grenade
 - Void: Enemies shrink on hit + can be run over like Quelvers ✅
