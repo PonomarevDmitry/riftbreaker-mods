@@ -20,7 +20,7 @@
 - Mini Riggs AI buddy ?
 - Add teleporter spawn skill to some enemy (Spawns Riggs teleporter symbol and %num% mobs spawn from them until it vanishes again)
 - Play hard rock song whenever riggs gets killed
-- Lukasz: Bomogan throwing acid creeper -> acid creeper on branch destructions spawns undeground mushrooms which on trigger explode in rain of octabits!
+- Lukasz: Bomogan throwing acid creeper -> acid creeper on branch destructions spawns undeground mushrooms which on trigger explode in rain of octabits! ✅
 - Each destroyed tree = One additional enemy each wave
 - Wira: Decoration lamps that spin the spotlights like IRL siren spotlights
 - Laser towers healing Riggs in range (shoot at him, laser = green bioscanner laser)
