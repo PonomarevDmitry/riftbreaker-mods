@@ -54,4 +54,5 @@
 - Lukasz: Weapon randomizer mod (Research? OnEquip?) ✅ (Dropping the weapon crashes game)
 - Riggs tower (Place a smaller Riggs version as a tower, no movement, upper body turn, use equipped player weapon?)
 - Mod which makes the player lose if just a single neutral unit has been killed ✅
-- Mod to increae / decrease building limits ✅
+- Mod to increase / decrease building limits ✅
+- Make alien towers spawn in metal survival ✅
