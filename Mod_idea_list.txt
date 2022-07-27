@@ -56,3 +56,4 @@
 - Mod which makes the player lose if just a single neutral unit has been killed ✅
 - Mod to increase / decrease building limits ✅
 - Make alien towers spawn in metal survival ✅
+- Change the metal survival map to the water level ✅
