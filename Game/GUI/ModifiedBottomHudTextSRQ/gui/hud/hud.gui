@@ -214,8 +214,8 @@ GuiRootGroupDef
 						{
 							map 
 							{
-								0	"CHANGE THIS LINE TO WHAT YOU WANT"
-								1	""
+								0	""
+								1	"CHANGE THIS LINE TO WHAT YOU WANT"
 							}
 						}
 					}
